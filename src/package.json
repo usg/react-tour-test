@@ -1,0 +1,17 @@
+{
+  "name": "7kjp4nzv9q",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "body-scroll-lock": "2.6.4",
+    "css-loader": "1.0.1",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-router-dom": "4.3.1",
+    "reactour": "1.16.1",
+    "reshake": "1.2.1",
+    "styled-components": "4.4.1"
+  }
+}
